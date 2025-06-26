@@ -1,2 +1,28 @@
-# Data-Analysis-Dashboard
-I developed a comprehensive Power BI dashboard analyzing the India General Election Results – 2024 using a CSV file. The dashboard visualizes seat distributions and performance metrics for the NDA, I.N.D.I.A., and independent parties, featuring interactive elements like slicers, KPI tiles, and alliance logos for clear, data-driven insights.
+# INDIA GENERAL ELECTION RESULTS – 2024 
+## Project Objective
+To develop an interactive Power BI dashboard to analyze the India General Election Results – 2024, focusing on seat distribution among key alliances (NDA and I.N.D.I.A.) and independent candidates. Utilize data from the Election Commission of India to provide insights into the election performance of major political groups.
+## KPI's
+1. NDA Performance 
+- Total seats won by the NDA alliance. 
+- Percentage of total seats secured by NDA. 
+- Bookmark: A grid matrix details table showing all seats won by the NDA 
+Alliance. 
+2. I.N.D.I.A. Performance 
+- Total seats won by the I.N.D.I.A. alliance. 
+- Percentage of total seats secured by I.N.D.I.A. 
+- Bookmark: A grid matrix details table showing all seats won by the I.N.D.I.A. 
+Alliance. 
+3. Independent & Other Parties Performance 
+- Total seats won by independent candidates and smaller parties. 
+- Percentage of total seats won by this group. 
+- Bookmark: A grid matrix details table showing all seats won by Independent 
+and Other Parties.
+## NDA Alliance Analysis 
+- Identify all parties within NDA that won seats. 
+- Display each party's seat count along with their party logos. 
+## I.N.D.I.A. Alliance Analysis 
+- Identify all parties within I.N.D.I.A. that won seats. 
+- Display each party's seat count along with their party logos.
+
+- Dashboard Interaction <a href="https://github.com/RajeswariKilli/Data-Analysis-Dashboard/blob/main/project%20picture.png">View Dashboard</a>
+## Dashboard
