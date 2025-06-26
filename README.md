@@ -27,5 +27,9 @@ and Other Parties.
 - Dashboard Interaction <a href="https://github.com/RajeswariKilli/Data-Analysis-Dashboard/blob/main/project%20picture.png">View Dashboard</a>
 ## Dashboard
 ![project picture](https://github.com/user-attachments/assets/0085fd5d-2c0c-44cc-9872-8a51b8d5d6d9)
+## Final Conclusion
+he India General Election Results – 2024 Dashboard offers an interactive and data-driven visualization of the election outcomes. By leveraging Power BI and official Election Commission data, it provides stakeholders with clear insights into seat distributions among the NDA, I.N.D.I.A., and independent parties. This tool serves as a valuable resource for political analysts, researchers, and the general public to comprehend the electoral landscape effectively.
+
+
 
 
